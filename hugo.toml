@@ -8,7 +8,7 @@ theme = 'massively'
   # favicon = "favicon.ico"
   # set to change date format
   # dateFormat = "2.1.2006"
-backgroundPath = "images/bg.jpeg"
+backgroundPath = "images/bg.jpg"
 
 # Below parameters can be set to override default post settings
 # [params.posts]
